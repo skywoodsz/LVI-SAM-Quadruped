@@ -1,6 +1,6 @@
 A simple version of LVI-SAM  can be verified using a quadruped robot gazebo.
 
-![dog](/home/skywoodsz/LVI_SAM_ws/git_up/pic/dog.png)
+![dog](./pic/dog.png)
 
 ## 1. System 
 
@@ -42,4 +42,4 @@ mon launch champ_teleop teleop.launch joy:=true
 mon launch lvi_sam run.launch
 ```
 
-![2022-08-23_18-56](/home/skywoodsz/LVI_SAM_ws/git_up/pic/2022-08-23_18-56.png)
+![2022-08-23_18-56](./pic/2022-08-23_18-56.png)
