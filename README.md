@@ -1,4 +1,6 @@
-A simple version of LVI-SAM  can be verified using a quadruped robot gazebo.
+A simple version of LVI-SAM  can be verified using a quadruped robot in gazebo.
+
+The demo [video](https://www.youtube.com/watch?v=_Xu8ZiidQfA) can be found.
 
 ![dog](./pic/dog.png)
 
